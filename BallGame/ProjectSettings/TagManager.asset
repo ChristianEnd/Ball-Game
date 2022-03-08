@@ -8,6 +8,7 @@ TagManager:
   - Goal
   - ObstacleThin
   - ObstacleThick
+  - UI
   layers:
   - Default
   - TransparentFX
